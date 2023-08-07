@@ -2,7 +2,7 @@
   "name": "style-cart-full-stack",
   "version": "1.0.0",
   "engines": {
-    "node": "10.15.3",
+    "node": "18.13.0",
     "npm": "6.4.1"
   },
   "scripts": {
