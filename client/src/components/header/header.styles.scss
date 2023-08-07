@@ -1,0 +1,36 @@
+.header {
+  height: 70px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 25px;
+}
+
+.logo-container {
+  height: 100%;
+  width: 70px;
+  padding: 25px;
+}
+
+.title {
+  flex: 1; /* Takes up remaining space */
+  font-size: 40px;
+  font-weight: bold;
+  color: #333;
+  margin: 0;
+  padding: 10px;
+  text-align: center; /* Centers the text horizontally */
+}
+
+.options {
+  /* Removed fixed width */
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+
+  .option {
+    padding: 10px 15px;
+    cursor: pointer;
+  }
+}

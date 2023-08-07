@@ -1,0 +1,19 @@
+.footer {
+    text-align: center;
+    padding: 30px;
+    font-weight: bold;
+    background-color: #f3f3f3;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+
+  .footer a {
+    color: blue; /* Makes the link the same color as the text */
+    text-decoration: none; /* Removes underline */
+  }
+  
+  .footer a:hover {
+    text-decoration: underline; /* Adds underline on hover */
+  }
+  
