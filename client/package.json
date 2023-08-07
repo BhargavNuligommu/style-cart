@@ -7,6 +7,8 @@
     "npm": "6.4.1"
   },
   "dependencies": {
+    "@babel/helper-builder-react-jsx": "^7.22.5",
+    "@babel/helper-regex": "^7.10.5",
     "axios": "0.18.0",
     "firebase": "6.0.2",
     "node-sass": "4.12.0",
